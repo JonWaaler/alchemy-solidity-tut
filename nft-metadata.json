@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Angry",
+      "value": "BigValue",
+      "rarity": "7",
+      "hp": "650",
+      "atk": "456",
+      "def": "535"
+    }
+  ],
+  "description": "Jon Ben waifu",
+  "image": "https://gateway.pinata.cloud/ipfs/QmW5BWjZhdomKXL78guLabwayWojqYrCEmAGi7CM3nNdoC",
+  "name": "Qiqi"
+}
